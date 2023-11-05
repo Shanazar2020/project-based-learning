@@ -584,7 +584,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: User Profile](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a)
   - [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
 - [Build a Laravel CRUD Application From Scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
-
+- [Build A Microservice with Symfony 6 from Scratch](https://www.youtube.com/watch?v=pZv93AEJhS8)
 ## OCaml:
 
 - [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
